@@ -1,0 +1,78 @@
+{
+  "Etapa": 3,
+  "Data": "2026-09-12T11:10:53.7706714-03:00",
+  "Java": "openjdk version \"17.0.20.1\" 2026-08-18 LTS\r\nOpenJDK Runtime Environment Microsoft-14940689 (build 17.0.20.1+1-LTS)\r\nOpenJDK 64-Bit Server VM Microsoft-14940689 (build 17.0.20.1+1-LTS, mixed mode, sharing)",
+  "Compilacao": "javac --release 17 -encoding UTF-8 -Xlint:all -Werror",
+  "Resultado": "APROVADO",
+  "ComparacaoComOriginal": "Saida e pedidos.txt identicos ao original",
+  "Fontes": [
+    {
+      "Arquivo": "Cidade.java",
+      "SHA256": "7FE582B1F3C8283FBB1D0F8D8FE8C4078DE6090D676C6C3E7FA4F48860D1782A"
+    },
+    {
+      "Arquivo": "Cliente.java",
+      "SHA256": "31D528F81D32282D0244D8C72D329FAF0C6AD65B8BB39FCCAC127F38877BE7A5"
+    },
+    {
+      "Arquivo": "Endereco.java",
+      "SHA256": "62588D570C51DDF671B16E023146F52323094AD638F7A98257996AA17A96551E"
+    },
+    {
+      "Arquivo": "Entrega.java",
+      "SHA256": "82459B36771DB6F988A0323FB0CFEA32C3E0CFBD2AA57DB0EB935DEA4E1E01BF"
+    },
+    {
+      "Arquivo": "EntregaRetiradaLoja.java",
+      "SHA256": "490C47F0EEA3DAA5B662481A01D995F5CC6EEDB2F7AC938323C85EA235A7BE3C"
+    },
+    {
+      "Arquivo": "GeraBoleto.java",
+      "SHA256": "4A2F7E46453C6E98B10CDBE9305FC88B11A821FD123D63BA6E5C349278F855EA"
+    },
+    {
+      "Arquivo": "IPagamento.java",
+      "SHA256": "2495B79AEDA4564A3BD661AFEC7060F5CFE7E82DAC9A4EC2F7F15125B0442EEB"
+    },
+    {
+      "Arquivo": "ItemPedido.java",
+      "SHA256": "B68A3AF6BE909F60B368F9993AB7B952B882E79424D734517A90D236474A9811"
+    },
+    {
+      "Arquivo": "Main.java",
+      "SHA256": "B0CA4F6D6BAF7A3A3824CE671415CD4CCD8209B423BDCE08D4B99E9EC62A3DBB"
+    },
+    {
+      "Arquivo": "PagamentoBoleto.java",
+      "SHA256": "7E0FF00B4FD559E7F0FB4CBC9597813D42764C88EB5BDB0651E0FAD0640FFC7D"
+    },
+    {
+      "Arquivo": "PagamentoCartao.java",
+      "SHA256": "6C4934F5C9DB3539A646046BC3167760D5FBC131160C59453DCFA59E734A2A2F"
+    },
+    {
+      "Arquivo": "PagamentoPix.java",
+      "SHA256": "22989DF5561F74C87A7C82BB50D37771AAC94890636885C9C53390E7FE47EC47"
+    },
+    {
+      "Arquivo": "Parcelavel.java",
+      "SHA256": "4657C5DE1E7057AB7BF21F931DB0434D43283F340EADA23384361D9A4759595F"
+    },
+    {
+      "Arquivo": "Pedido.java",
+      "SHA256": "ED25B8259222A8167683D304E23D568E6BD24A3EC81B180CB05FC586A67C5B74"
+    },
+    {
+      "Arquivo": "PedidoRepository.java",
+      "SHA256": "C8C15B2537A3CB51E5E35A638EC0CAFB747612F58B128EB55EC0A25AEBFEBA0C"
+    },
+    {
+      "Arquivo": "PedidoRepositoryArquivo.java",
+      "SHA256": "FD869B9EEFECF2CB3231ACBFDA64ABD7D599DEF9502BABC9390A5CD37E016413"
+    },
+    {
+      "Arquivo": "PedidoService.java",
+      "SHA256": "A5B7AC2DEA82EBC8533606E496737A9E6F0E71C1D016296DFD5B6684FB8CD63C"
+    }
+  ]
+}

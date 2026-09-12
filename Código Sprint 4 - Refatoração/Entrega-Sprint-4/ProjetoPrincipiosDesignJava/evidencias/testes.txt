@@ -1,0 +1,25 @@
+[OK] Desconto de aluno: R$ 144,00
+[OK] Desconto de professor: R$ 136,00
+[OK] Desconto de funcionário: R$ 128,00
+[OK] Pedido sem desconto: R$ 160,00
+[OK] Pedido sem itens mantém total zero
+[OK] Cidade e nome acompanham alterações do domínio
+[OK] Finalização por cartão preserva pagamento e resumo
+[OK] Finalização por PIX preserva pagamento
+[OK] Finalização por boleto preserva geração da linha
+[OK] Registro direto de boleto permanece disponível
+[OK] Parcelamento por cartão permanece disponível
+[OK] Repositório cria arquivo UTF-8 com nome e total
+[OK] Repositório acrescenta pedidos sem apagar anteriores
+[OK] Erro real de escrita mantém causa e mensagem
+[OK] Finalização usa o desconto injetado e salva antes de pagar
+[OK] Falha do repositório interrompe pagamento e confirmação
+[OK] Falha de pagamento não imprime confirmação de sucesso
+[OK] Novo desconto e pagamento funcionam sem alterar o serviço
+[OK] Dependências obrigatórias são verificadas na construção
+[OK] Entrega em domicílio mantém frete de R$ 15,00
+[OK] Retirada abaixo de R$ 50 fica indisponível
+[OK] Retirada a partir de R$ 50 é gratuita
+[OK] Mesmo consumidor trata ambas as entregas pelo contrato
+
+RESULTADO: 23 testes aprovados; 0 falhas.

@@ -1,0 +1,17 @@
+=== LOJA ACADÊMICA ===
+
+Cidade de entrega:
+Belo Horizonte
+
+Total com desconto:
+R$ 144,00
+
+Pagamento:
+Salvando pedido em arquivo...
+Gerando resumo do pedido...
+Cliente: Ana
+Total: R$ 144,00
+Pagamento no cartão: R$ 144,00
+Enviando mensagem para Ana: pedido finalizado.
+
+Programa executado com sucesso.
